@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1765286145 source:e:\lab7_framework\lab7_framework\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<unistd.h>
+
